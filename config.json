@@ -1,0 +1,9 @@
+{
+  "name": "fatality-lsp-addon",
+  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_config.schema.json",
+  "settings": {
+    "Lua.diagnostics.groupSeverity": {
+      "await": "Error"
+    }
+  }
+}
